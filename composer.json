@@ -1,5 +1,5 @@
 {
-    "name": "santhiya715/santhiya715",
+    "name": "santhiya715/ran",
     "description": "welcome the password",
     "type": "library",
     "require": {
@@ -19,19 +19,8 @@
     "psr-4": {
       "Santhiya715\\Santhiya715\\": "src/RandomPassword/"
     },
-    "files": [
-      "src/RandomPassword/Password.php"
-    ]
-  },
-  "extra": {
-    "laravel": {
-      "providers": [
-        "RandomPassword\\PasswordServiceProvider"
-      ]
-    }
-  },
+   
   "require-dev": {
-    "orchestra/testbench": "^3.8"
   }
 }
 
