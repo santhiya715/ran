@@ -18,9 +18,9 @@
   "autoload": {
     "psr-4": {
       "Santhiya715\\Santhiya715\\": "src/RandomPassword/"
-    },
+    }
    
-  "require-dev": {
+
   }
 }
 
